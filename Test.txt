@@ -17,7 +17,19 @@ commit 4 branch 2
 
 
 
+
 commit 1 HT1a....
 
 
 test-commit di HT2 4:06 11/5/2015
+
+
+commit 1 HT1a....
+
+commit di master 4:04 11/5/2015
+
+test-commit di master 4:11 11/5/2015
+
+test - master - commit branch 2 - 4:13 11/5/2015
+
+
